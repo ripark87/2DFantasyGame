@@ -23,7 +23,7 @@ public class HeroMovement : MonoBehaviour
 				speed.x * inputX,
 				speed.y * inputY);
 			
-			anim.SetFloat("Speed", Mathf.Abs(inputX));
+			anim.SetFloat("Speed", Mathf.Abs(inputX + inputY));
 
 
 		//Mouse control 
