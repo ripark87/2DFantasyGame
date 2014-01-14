@@ -19,11 +19,18 @@ public class HeroMovement : MonoBehaviour
 			float inputX = Input.GetAxis("Horizontal");
 			float inputY = Input.GetAxis("Vertical");
 
+            //enable animation for both horizontal and vertical.
+            float temp = Mathf.Abs(inputX + inputY);
+
 			movement = new Vector2(
 				speed.x * inputX,
 				speed.y * inputY);
 			
+<<<<<<< HEAD
 			anim.SetFloat("Speed", Mathf.Abs(inputX + inputY));
+=======
+			anim.SetFloat("Speed", temp);
+>>>>>>> 53bc7c8afc68aa7d84f31c9bcae991cfda9e9c81
 
 
 		//Mouse control 
