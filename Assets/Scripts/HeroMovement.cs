@@ -38,6 +38,8 @@ public class HeroMovement : MonoBehaviour
 		
 	void FixedUpdate()
 	{
+       
+ 
 		rigidbody2D.velocity = movement;
 
         //calculate the direction of roll, turning mouse position into world coordinates
@@ -49,6 +51,7 @@ public class HeroMovement : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.Space))
         {
             rigidbody2D.AddForce(direction * power);
+            
             
         }
 	}
