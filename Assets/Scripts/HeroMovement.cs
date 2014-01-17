@@ -51,8 +51,13 @@ public class HeroMovement : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.Space))
         {
             rigidbody2D.AddForce(direction * power);
-            
+        }
+
+        //swing sword if LMB pressed
+        if (Input.GetMouseButtonDown(0)) 
+        {
             
         }
+
 	}
 }
