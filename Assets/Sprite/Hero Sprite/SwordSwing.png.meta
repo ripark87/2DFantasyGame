@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 320b37d6d804e8541a743c16fe5445f5
+guid: 8e1d1360098df2240837cb732d8afbbf
 TextureImporter:
   serializedVersion: 2
   mipmaps:
@@ -45,7 +45,7 @@ TextureImporter:
     compressionQuality: 50
   spriteSheet:
     sprites:
-    - name: HeroRunStart_0
+    - name: SwordSwing_0
       rect:
         serializedVersion: 2
         x: 0
@@ -54,7 +54,7 @@ TextureImporter:
         height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
-    - name: HeroRunStart_1
+    - name: SwordSwing_1
       rect:
         serializedVersion: 2
         x: 32
@@ -63,7 +63,7 @@ TextureImporter:
         height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
-    - name: HeroRunStart_2
+    - name: SwordSwing_2
       rect:
         serializedVersion: 2
         x: 64
@@ -72,7 +72,7 @@ TextureImporter:
         height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
-    - name: HeroRunStart_3
+    - name: SwordSwing_3
       rect:
         serializedVersion: 2
         x: 96
@@ -81,7 +81,7 @@ TextureImporter:
         height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
-    - name: HeroRunStart_4
+    - name: SwordSwing_4
       rect:
         serializedVersion: 2
         x: 128
@@ -90,7 +90,7 @@ TextureImporter:
         height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
-    - name: HeroRunStart_5
+    - name: SwordSwing_5
       rect:
         serializedVersion: 2
         x: 0
@@ -99,7 +99,7 @@ TextureImporter:
         height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
-    - name: HeroRunStart_6
+    - name: SwordSwing_6
       rect:
         serializedVersion: 2
         x: 32
@@ -108,7 +108,7 @@ TextureImporter:
         height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
-    - name: HeroRunStart_7
+    - name: SwordSwing_7
       rect:
         serializedVersion: 2
         x: 64
@@ -117,7 +117,7 @@ TextureImporter:
         height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
-    - name: HeroRunStart_8
+    - name: SwordSwing_8
       rect:
         serializedVersion: 2
         x: 96
@@ -126,7 +126,7 @@ TextureImporter:
         height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
-    - name: HeroRunStart_9
+    - name: SwordSwing_9
       rect:
         serializedVersion: 2
         x: 128
@@ -135,7 +135,7 @@ TextureImporter:
         height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
-    - name: HeroRunStart_10
+    - name: SwordSwing_10
       rect:
         serializedVersion: 2
         x: 0
@@ -144,7 +144,7 @@ TextureImporter:
         height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
-    - name: HeroRunStart_11
+    - name: SwordSwing_11
       rect:
         serializedVersion: 2
         x: 32
@@ -153,7 +153,7 @@ TextureImporter:
         height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
-    - name: HeroRunStart_12
+    - name: SwordSwing_12
       rect:
         serializedVersion: 2
         x: 64
@@ -162,19 +162,10 @@ TextureImporter:
         height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
-    - name: HeroRunStart_13
+    - name: SwordSwing_13
       rect:
         serializedVersion: 2
         x: 96
-        y: 64
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-    - name: HeroRunStart_14
-      rect:
-        serializedVersion: 2
-        x: 128
         y: 64
         width: 32
         height: 32
