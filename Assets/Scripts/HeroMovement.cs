@@ -62,13 +62,8 @@ public class HeroMovement : MonoBehaviour
 
 
         //swing sword if LMB pressed down
-        if (Input.GetMouseButton(0))
-        {
-            anim.SetBool("LMBclick", true);
-        }
-        else
-            anim.SetBool("LMBclick", false);
-        
+        if (Input.GetMouseButtonDown(0))
+            anim.SetTrigger("LMBclick");
 
 	}
 
